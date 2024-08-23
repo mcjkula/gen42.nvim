@@ -12,7 +12,6 @@ Gen42.nvim is a Neovim plugin that integrates with the Gen42 AI API to provide i
 ## Requirements
 
 - Neovim
-- [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
 - Gen42 API key
 
 ## Installation
