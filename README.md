@@ -19,7 +19,7 @@ Gen42.nvim is a Neovim plugin that integrates with the Gen42 AI API to provide i
 
 Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
-lua
+```lua
 return {
   "mcjkula/gen42.nvim",
   dependencies = { "nvim-lua/plenary.nvim" },
@@ -29,6 +29,7 @@ return {
     })
   end,
 }
+```
 
 ## Usage
 
